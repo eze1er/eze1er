@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @eze1er
-- 👀 I’m interested in coding and programming 
-- 🌱  I will be attending the web dev boot camp for the October cohort
-- 💞️ I’m looking to collaborate on with anyone can help me to progress in coding
-- 📫
-- I can speak french too
-- 
+- 👋 Hi, I’m @eze1er, 
+- Full Stack WEB Developer
+- 🌱  Lighthouse Labs Alumni mars 2021
+- 💞️  LANGUAGES: Javascript, Ruby, HTML, CSS
+- 📫 FRAMEWORKS, LIBRARIES AND ENVIRONNMENTS: NodeJS, ReactJS, Rails, Ajax, Express, EJS, JQuery, Boostrap, Material UI, ActiveRecord, SASS
+- SYSTEMS, CMS & DATABASES: SQL, ProgressSql, MongoDB, GIT
+- TESTING: Mocha and Chai, Jest, Cypress
+- LANGUAGES SPOKEN: English, French
 
 <!---
 eze1er/eze1er is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
